@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-json-schema-diff-patcher-skill",
+  "version": "1.0.0",
+  "description": "Schema evolution engine computing RFC 6902 JSON patches, breaking changes, and semver version bumps",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["schema-diff", "json-patch", "rfc6902", "breaking-change", "semver-evolution", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
